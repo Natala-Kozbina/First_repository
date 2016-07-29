@@ -1,0 +1,20 @@
+p {color : green;
+  font-size: 18px;
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+  font-family: Arial;
+  padding: 0px;
+  margin: 0px;
+  }
+
+
+body {
+  background: #E0FFFF;
+}
+
+span {
+  color : red;
+  font-size: 25px;
+  font-family: cursive;
+}
